@@ -31,7 +31,7 @@ This project is a Job Scheduler Microservice built with Django, Django REST Fram
 
 
 ```bash
-  git clone https://github.com/yourusername/job_scheduler_service.git
+  git clone https://github.com/BurhanMohammad/-Job-Scheduler-Microservice.git
   cd job_scheduler_service
 
 ```
